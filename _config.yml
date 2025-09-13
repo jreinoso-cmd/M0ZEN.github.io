@@ -1,3 +1,11 @@
 title: "My security blog"
 description: "Projects and posts on data security"
 theme: jekyll-theme-cayman-blog
+header:
+  title: "My security blog"
+nav:
+  - title: "Inicio"
+    url: /
+  - title: "Proyectos"
+    url: /projects
+
